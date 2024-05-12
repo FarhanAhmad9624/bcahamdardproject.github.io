@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: auto;
+}
+
+main{
+    position: relative;
+    top: 8rem;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+
+}
+
+div.lang div{
+    border: 2px solid black;
+    border-radius: 15px;
+    height: 20em;
+    width: 20em;
+    background-image: url(../images/clang.jpeg);
+    background-repeat: no-repeat;
+    background-size: 20em 20em;
+}
+
+div.lang{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 5rem;
+}
+
+div ul{
+    list-style: none;
+}
+
+li.lang p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+    font-size: x-large;
+}
