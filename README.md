@@ -1,1 +1,1 @@
-# bcahamdardproject.github.io
+https://farhanahmad9624.github.io/hamdard/
