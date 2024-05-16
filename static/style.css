@@ -3,9 +3,29 @@
     margin: auto;
 }
 
+
+header{
+    border: 2px solid black;
+    height: 4em;
+    background-color: black;
+}
+
+
 main{
     position: relative;
     top: 8rem;
+}
+
+div#image{
+    background-image: url(../images/bgimg.png);
+    /* background-repeat: no-repeat; */
+    background-size: auto;
+    height: 93.7vh;
+    width: 100vw;
+    background-size: 100%;
+    position: absolute;
+    top: -8.5em;
+    opacity: 50%;
 }
 
 h1{
